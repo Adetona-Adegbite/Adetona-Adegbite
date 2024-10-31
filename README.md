@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adetona-adegbite" alt="adetona-adegbite" /></a> </p>
 
-- 🔭 I’m currently working on [Tagnet](https://github.com/Adetona-Adegbite/Linkbeez)
-
 - 🌱 I’m currently learning **Deep Learning**
-
-- 👯 I’m looking to collaborate on [Qutopia](https://github.com/Adetona-Adegbite/Quotopia)
 
 - 📝 I regularly write articles on [https://medium.com/@adetona67](https://medium.com/@adetona67)
 
